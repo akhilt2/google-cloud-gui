@@ -1,5 +1,5 @@
 # google-cloud-gui
-This is a bash script to get GUI in a google cloud instance. This script works on any instance whether it is a free instance or not (even in cloud shell instance).
+This is a bash script to get GUI in a google cloud instance. This script works on any instance whether it is free or not (even in cloud shell instance).
 
 XFCE works fine in any instance while other desktop environments breaks in free instance due to lack of gpu.
 
